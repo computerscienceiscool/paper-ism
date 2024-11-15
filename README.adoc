@@ -25,7 +25,7 @@ toc::[]
 
 The year was 1994.  There I was, standing in the former boardroom of a
 major international bank, looking at the README for an early version
-of Mark Burgess's cfengine.  I was thinking "this is close to what we
+of Mark Burgess's CFEngine.  I was thinking "this is close to what we
 need, but I'll not be able to get it past internal culture."  
 
 In that year, the terms "open source" and "infrastructure" had not yet
@@ -147,10 +147,10 @@ also wanted to get on with life -- I had been working 60-100 hour
 weeks for years and was ready for a change.
 
 I finally met Mark Burgess in 1997, at my first USENIX LISA
-conference. He held a BoF on cfengine, and the room was packed.
+conference. He held a BoF on CFEngine, and the room was packed.
 
 While I was at NASA Ames Research Center in 1998, I was finally able
-to install cfengine in a production environment -- we used it to
+to install CFEngine in a production environment -- we used it to
 manage the supercomputers in NASA's Numerical Aerodynamic Simulation
 (NAS) facility.  Doing this gave me some ideas for how to improve the
 tool for mission-critical environments -- more on that later. 
@@ -160,7 +160,7 @@ had built at the bank, mentioning it in the 1998 USENIX LISA
 proceedings in our "Bootstrapping an Infrastructure" paper.
 <<bootstrapping>>
 
-Mark presented cfengine and his concept of "Computer Immunology" at
+Mark presented CFEngine and his concept of "Computer Immunology" at
 the 1998 USENIX LISA conference, and I was quite taken with the idea.
 The concept of "self-healing systems" was what we thought we were
 doing at the bank, and I was glad to see that someone else was
